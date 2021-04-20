@@ -38,9 +38,31 @@
 #subcontent p{
     color: #d2d2d2;
     font-family: inter-light;
-    padding: 0px;
     margin: 0;
-    padding-bottom: 30px;
+
+}
+#subcontent img{
+    background: #333333;
+    width: 86%;
+    padding: 7%;
+    border-radius: 4px;
+    box-shadow: 0px 0px 30px 10px rgba(0,0,0,0.2);
+}
+#textchannels1{
+    padding: 20px;
+    font-size: 1.6em;
+}
+#textchannels2{
+    padding: 20px;
+    font-size: 1.6em;
+}
+#textchannels3{
+    padding: 20px;
+    font-size: 1.6em;
+}
+#titlechannels{
+    font-size: 1.2em;
+    padding: 20px;
 }
 #grid-channel_screen-title{
     color: #fbb713;
