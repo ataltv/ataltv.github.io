@@ -9,7 +9,6 @@
     width: 100%;
     height: auto;
     box-shadow: 0px 0px 30px 10px rgba(0,0,0,0.2);
-    margin-bottom: 30px;
 }
 
 .name-plan{
@@ -19,6 +18,10 @@
     border-top-right-radius: 4px;
     background: #393939;
     border-top-left-radius: 4px;
+    margin: 0 auto;
+    display: table;
+    margin: 0px;
+    padding-top: 30px;
 }
 .setup{
     width: 100%;

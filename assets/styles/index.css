@@ -80,6 +80,16 @@ nav{
     float: left;
     padding-bottom: 55px;
 }
+#revenda{
+    background: #fff000;
+    height: auto;
+    float: left;
+}
+#contato{
+    background: #fff000;
+    height: auto;
+    float: left;
+}
 .container-screen{
     position: relative;
     margin: 0 auto;

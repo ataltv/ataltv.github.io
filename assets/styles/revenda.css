@@ -1,0 +1,29 @@
+#revenda{
+    background: #333333;
+    padding-bottom: 55px;
+}
+#moneyeur{
+    width: 30px;
+    margin: 0 auto;
+    display: table;
+}
+#moneyeur img{
+    width: 100%;
+}
+#revenda-name-text{
+    display: table;
+    margin: 0 auto;
+}
+#value-revenda{
+    font-family: inter-bold;
+    font-size: 1em;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 0 auto;
+    display: table;
+    text-align: center;
+    margin-top: -5px;
+}
+#revenda-title h1{
+    color: #fbb713;
+}
